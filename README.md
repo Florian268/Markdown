@@ -43,7 +43,6 @@ Virtualbox allows for differing OS such as Linux, macOS, and windows to be run o
 ### 9. Download and upload the Ubuntu Disc
 - This is the actual OS software provided by companies and needs to
 - link: https://ubuntu.com/download/desktop
-- 
 ### 10. Select Ubuntu Disc and run Ubuntu
 > ![disc](disc.jpg)
 
